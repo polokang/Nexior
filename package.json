@@ -1,10 +1,14 @@
 {
-  "name": "@acedatacloud/nexior",
+  "name": "nexior",
   "version": "2.11.32",
   "author": "Germey Technology <dev@germey.tech>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AceDataCloud/Nexior.git"
+    "url": "git+https://github.com/polokang/Nexior.git"
+  },
+  "engines": {
+    "node": "18.x",
+    "npm": ">=8.0.0"
   },
   "files": [
     "dist/"
